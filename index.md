@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Machine Learning, Artificial Intelligence and Data Science Portfolio
+# ML, AI and Data Science Portfolio
 
 ---
 
